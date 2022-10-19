@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kotlin and java language
 - 💞️ I’m looking to collaborate on Udemy course and other resources
 - 📫 How to reach me ? thanks to github
+Thank you ! 
 
 <!---
 ifuatgucluer/ifuatgucluer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
