@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ifuatgucluer
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning kotlin and java language
-- 💞️ I’m looking to collaborate on Udemy course and other resources
+- 👀 I’m interested in Software Developer and QA Tester
+- 🌱 I know kotlin and java language
+- 💞️ I’m looking to collaborate on Clarusway course and other resources
 - 📫 How to reach me ? thanks to github
 Thank you ! 
 
